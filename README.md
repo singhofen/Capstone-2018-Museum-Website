@@ -1,14 +1,15 @@
 # Final project of Museum IT Capstone project.
 Museum-Website-2018
-Online Communication / Social Media Website. This website covers a timeline of the history of social media / online communication from the 1960's to present 2018. Developed By:  Lion Group, Valencia College 
+Online Communication / Social Media Website. This website covers a timeline of the history of social media / online communication from the 1960's to present 2018. Developed By:  Lion Group, Valencia College 2018
 
 YouTube Link for video presentation of Capstone Project.
 
 https://www.youtube.com/watch?v=ZTprLZc71hA&feature=youtu.be
 
+
 Photos of Museum Website slider.
 
-Browse Reop. for more information and images. 
+Browse repo for more information and images. 
 
  ![image](https://user-images.githubusercontent.com/23155302/39595194-c627c56e-4edc-11e8-965b-a3285df9961a.png)
 
@@ -22,6 +23,4 @@ Browse Reop. for more information and images.
 
 ![image](https://user-images.githubusercontent.com/23155302/39595303-128c01fe-4edd-11e8-8aef-d55880a37a00.png)
 
-YouTube Link for video presentation of Capstone Project.
 
-https://www.youtube.com/watch?v=ZTprLZc71hA&feature=youtu.be
